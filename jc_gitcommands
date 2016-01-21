@@ -1,0 +1,3 @@
+Use git remote -v to check the remotes that you are able to push of fetch from
+	git fetch upstream	pulls all the commits from the person you forked from
+	
